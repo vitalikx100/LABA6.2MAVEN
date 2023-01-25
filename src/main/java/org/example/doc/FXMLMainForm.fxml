@@ -10,7 +10,7 @@
 <?import javafx.scene.control.TextField?>
 <?import javafx.scene.layout.AnchorPane?>
 
-<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="doc.FXMLMainFormController">
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.doc.FXMLMainFormController">
    <children>
       <Label layoutX="45.0" layoutY="288.0" prefHeight="27.0" prefWidth="125.0" text="New point X :" />
       <Label layoutX="45.0" layoutY="329.0" prefHeight="27.0" prefWidth="125.0" text="New point Y :" />
